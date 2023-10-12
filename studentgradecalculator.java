@@ -9,7 +9,7 @@ public class task1 {
         Scanner sc=new Scanner(System.in);
 
         System.out.print("enter your name : ");
-        String name=sc.next();
+        String Name=sc.next();
 
 
         System.out.print("enter number of subjects :");
@@ -24,7 +24,7 @@ public class task1 {
             total_marks+=sc.nextInt();
         }
 
-        System.out.println("Name : "+name);
+        System.out.println("Name : "+Name);
 
         System.out.println("Total marks of each subject is :"+ total_marks);
 
