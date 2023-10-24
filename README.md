@@ -1,2 +1,2 @@
 # Task1Codsoft
-This is my repository of codsoft's first  project. 
+This is my first repository and first project  of codsoft internship program.
